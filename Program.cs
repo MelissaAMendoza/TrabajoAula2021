@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TrabajoAula2021
+namespace mendoza_trabajoAula
 {
     static class Program
     {
@@ -12,7 +12,6 @@ namespace TrabajoAula2021
         ///  The main entry point for the application.
         /// </summary>
         [STAThread]
-
         static void Main()
         {
             Application.SetHighDpiMode(HighDpiMode.SystemAware);

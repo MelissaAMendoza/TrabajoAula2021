@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TrabajoAula2021
+namespace mendoza_trabajoAula
 {
     public partial class Form1 : Form
     {
@@ -17,5 +17,10 @@ namespace TrabajoAula2021
             InitializeComponent();
         }
 
+        private void buttonINGRESAR_Click(object sender, EventArgs e)
+        {
+            //label.Text = "Cambiamos el Text";
+            MessageBox.Show("Hola Mundo");
+        }
     }
 }

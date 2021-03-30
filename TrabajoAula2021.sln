@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabajoAula2021", "TrabajoAula2021.csproj", "{823F501B-09ED-4846-A611-02C59E0B78DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrabajoAula2021", "TrabajoAula2021.csproj", "{823F501B-09ED-4846-A611-02C59E0B78DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mendoza-trabajoAula", "mendoza-trabajoAula.csproj", "{172DD72E-E8F5-4BD9-BBCE-401228B7DF05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{823F501B-09ED-4846-A611-02C59E0B78DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{823F501B-09ED-4846-A611-02C59E0B78DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{823F501B-09ED-4846-A611-02C59E0B78DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172DD72E-E8F5-4BD9-BBCE-401228B7DF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172DD72E-E8F5-4BD9-BBCE-401228B7DF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172DD72E-E8F5-4BD9-BBCE-401228B7DF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172DD72E-E8F5-4BD9-BBCE-401228B7DF05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
